@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import * #Use pip install tk to install tkinter and this line imports all its functions for use.
 root = Tk() #This is our GUI window
 root.geometry("300x300") #Specification on the size of the window
 root.title("Nirvana's-Mad Libs Generator") #Name given to the window
